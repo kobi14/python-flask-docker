@@ -1,0 +1,1 @@
+docker pull kobi14/dockerexercise 

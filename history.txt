@@ -1,0 +1,500 @@
+   20  ng serve
+   21  ng serve
+   22  nodemon
+   23  cd angular-ui/
+   24  ng serve
+   25  ng serve
+   26  cd angular-ui/
+   27  ng serve
+   28  nodemon
+   29  nodemon
+   30  nodemon
+   31  nodemon
+   32  cd angular-ui/
+   33  ng serve
+   34  ng g c components/labview
+   35  ng serve
+   36  ng serve
+   37  ng serve
+   38  cd angular-ui/
+   39  ng serve
+   40  ng serve
+   41  nodemon
+   42  nodemon
+   43  cd angular-ui/
+   44  ng serve
+   45  cd angular-ui/
+   46  ng serve
+   47  ng serve
+   48  ng serve
+   49  ng serve
+   50  nodemon
+   51  cd angular-ui/
+   52  ng serve
+   53  nodemon
+   54  mongo
+   55  git status --ignore-submodules=dirty
+   56  git status --ignore-submodules=dirty
+   57  git
+   58  mongo
+   59  mongo
+   60  mongod
+   61  mongod
+   62  mongod
+   63  docker
+   64  docker images
+   65  docker run -d -p 27017:27017 mongo:latest
+   66  docker info | sed '/Username:/!d;s/.* //'
+   67  echo $username
+   68  cd Downloads/
+   69  cd docker-exercise-master/
+   70  ls
+   71  sudo app.py 
+   72  ./app.py 
+   73  pip install -r requirements.txt
+   74  docker push kobi/dockerexercise:v1
+   75  cd angular-ui/
+   76  ng serve
+   77  nodemon
+   78  nodemon
+   79  nodemon
+   80  cd angular-ui/
+   81  ng serve
+   82  mongod
+   83  cd Documents/
+   84  mkdir network-system
+   85  cd network-system/
+   86  docker pull sizijay/dockerexercise
+   87  docker pull sizijay/dockerexercise
+   88  docker pull sizijay/dockerexercise:v1
+   89  docker-machine ls
+   90  docker images
+   91  docker run -i -t ca9e9c5a080b /bin/bash
+   92  docker run -p 5000:5000 sizijay/dockerexercise:v1
+   93  cd Downloads/
+   94  cd docker-exercise-master/
+   95  ls
+   96  ./app.py
+   97  docker-machine 
+   98  docker images
+   99  docker run -d -p 27017:27017 mongo:latest
+  100  cd Documents/3yr/WLab/
+  101  modemon
+  102  ls
+  103  nodemon
+  104  nodemon
+  105  cd angular-ui/
+  106  ng serve
+  107  nodemon
+  108  cd angular-ui/
+  109  ng serve
+  110  ng serve
+  111  cd angular-ui/
+  112  ng serve
+  113  ng g c components/adminpanel
+  114  ng serve
+  115  ng serve
+  116  cd angular-ui/
+  117  ng serve
+  118  ng serve
+  119  ng serve
+  120  cd angular-ui/
+  121  ng serve
+  122  ng serve
+  123  cd angular-ui/
+  124  ng serve
+  125  ng serve
+  126  cd angular-ui/
+  127  npm install --save jwt-decode
+  128  cd angular-ui/
+  129  ng serve
+  130  cd Documents/3yr/WLab/
+  131  nodemon
+  132  cd angular-ui/
+  133  ng serve
+  134  exit
+  135  quit
+  136  clear
+  137  cd Documents/3yr/
+  138  ls
+  139  cd vGuid
+  140  cd vGuid-Web/
+  141  ls
+  142  cd ..
+  143  cd UI/
+  144  ls
+  145  cd a4app/
+  146  ld
+  147  ls
+  148  ng serve
+  149  ng serve
+  150  ng serve
+  151  ng serve
+  152  mongod
+  153  mongod
+  154  mongod
+  155  cd Documents/3yr/WLab/
+  156  nodemon
+  157  nodemon
+  158  nodemon
+  159  cd angular-ui/
+  160  ng serve
+  161  ng serve
+  162  /Applications/Final\ Cut\ Pro.app/Contents/MacOS/Final\ Cut\ Pro ; exit;
+  163  cd angular-ui/
+  164  ng serve
+  165  mongod
+  166  mongod
+  167  mongod
+  168  mongod
+  169  nodemon
+  170  cd angular-ui/
+  171  ng g c compontents/addroles
+  172  ng g c components/addroles
+  173  /Applications/Final\ Cut\ Pro.app/Contents/MacOS/Final\ Cut\ Pro ; exit;
+  174  mongo
+  175  mongod
+  176  mongod
+  177  cd Documents/3yr/WLab/
+  178  ls
+  179  nodemon
+  180  nodemon
+  181  nodemon
+  182  nodemon
+  183  cd angular-ui/
+  184  npm install jspdf --save
+  185  npm install @types/jspdf --save -dev
+  186  npm install --save html2canvas
+  187   npm install pdfmake
+  188  cd angular-ui/
+  189  ng serve
+  190  ng build
+  191  ng build
+  192  nodemon
+  193  nodemon
+  194  nodemon
+  195  nodemon
+  196  nodemon
+  197  nodemon
+  198  cd angular-ui/
+  199  ng build
+  200  ng build
+  201  cd Documents/untitled\ folder/
+  202  ls
+  203  cd Lab\ Reservation/
+  204  ls
+  205  nodemon
+  206  mongod
+  207  docker images
+  208  docker --help
+  209  docker run --help
+  210  docker images
+  211   run -d -p 27017:27017 9a63ed32fc2b
+  212  docker run -d -p 27017:27017 9a63ed32fc2b
+  213  docker ps
+  214  docker images
+  215  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  216  docker ps
+  217  docker images
+  218  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  219  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  220  docker stop sizijay/dockerexercise:v1
+  221  docker stop ca9e9c5a080b
+  222  docker stop -f sizijay/dockerexercise:v1
+  223  docker stop --f sizijay/dockerexercise:v1
+  224  docker stop --help
+  225  docker stop -t ca9e9c5a080b
+  226  docker images
+  227  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  228  docker stop f47574019e626fe0fb6c456623e8b5ffe257f99d37ab4030a8ea326ee70e4030
+  229  docker ps
+  230  docker container ls
+  231  docker rm -f 9126f80acd03
+  232  docker ps
+  233  exit
+  234  docker images
+  235  docker run -d -p 27017:27017 9a63ed32fc2b
+  236  docker ps
+  237  docker stop b70ef6e1e7ff
+  238  docker run -d -p 27017:27017 9a63ed32fc2b
+  239  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  240  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  241  docker stop b70ef6e1e7ff
+  242  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  243  docker stop b70ef6e1e7ff
+  244  cd Downloads/docker-exercise-master/
+  245  pythan app.py
+  246  ls
+  247  ./app.py
+  248  sudo ./app.py
+  249  cd Desktop/
+  250  cd docker-exercise-master/
+  251  cd ..
+  252  cd dockerexercise/
+  253  ls
+  254  export DOCKER_ID_USER="kobi14"
+  255  docker login
+  256  docker tag dockerexercise:v1 kobi14/dockerexercise:v1
+  257  docker tag dockerexercise:v1 kobi14/dockerexercise:v1
+  258  docker tag dockerexercise kobi14/dockerexercise
+  259  docker build -t kobi14/FROM python:2.7
+  260  WORKDIR /pythonApp
+  261  ADD . /pythonApp
+  262  RUN pip install -r requirements.txt
+  263  EXPOSE 5000 
+  264  docker build -t kobi14/dockerexercise .
+  265  docker build -t kobi14/dockerexercise .
+  266  docker images
+  267  docker rmi eae01cc88b9e
+  268  docker images
+  269  docker build -t kobi14/dockerexercise:v1 .
+  270  docker images
+  271  docker tag 69e1fb019081  kobi14/69e1fb019081
+  272  docker push kobi14/69e1fb019081
+  273  docker images
+  274  docker rmi 69e1fb019081
+  275  docker rmi -f 69e1fb019081
+  276  docker images
+  277  docker build -t dockerexercise:v1 .
+  278  docker images
+  279  docker tag dockerexercise  kobi14/dockerexercise:v1
+  280  docker tag dockerexercise:v1  kobi14/dockerexercise:v1
+  281  docker push kobi14/dockerexercise:v1
+  282  docker images
+  283  docker run -p 5000:5000 kobi14/dockerexercise:v1 
+  284  docker run -p kobi14/dockerexercise:v1 
+  285  docker run  kobi14/dockerexercise:v1 
+  286  docker images
+  287  docker run -d -p 27017:27017 9a63ed32fc2b
+  288  docker run -p 5000:5000 kobi14/dockerexercise:v1 
+  289  docker run  kobi14/dockerexercise:v1 
+  290  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  291  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  292  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  293  docker run kobi14/dockerexercise:v1
+  294  docker run sizijay/dockerexercise:v1
+  295  docker stop b70ef6e1e7ff
+  296  docker run sizijay/dockerexercise:v1
+  297  exit
+  298  docker images
+  299  docker run -d -p 27017:27017 9a63ed32fc2b
+  300  docker run -p 5000:5000 sizijay/dockerexercise:v1 
+  301  docker imags
+  302  docker images
+  303  docker ca9e9c5a080b
+  304  docker run ca9e9c5a080b
+  305  ls
+  306  docker run -it -p ca9e9c5a080b
+  307  docker run  -p ca9e9c5a080b
+  308  docker ps
+  309  docker run -it ca9e9c5a080b
+  310  docker images
+  311  cd sizijay/dockerexercise:v1
+  312  docker cd sizijay/dockerexercise:v1
+  313  docker sizijay/dockerexercise:v1
+  314  docker ps
+  315  docker stop 6305ffd5f032
+  316  docker images
+  317  docker run  -p ca9e9c5a080b
+  318  docker run ca9e9c5a080b
+  319  docker images ls
+  320  docker images 
+  321  docker ca9e9c5a080b ls
+  322  docker ca9e9c5a080b 
+  323  docker run -it ca9e9c5a080b sh
+  324  docker images
+  325  docker run -d -p 27017:27017 9a63ed32fc2b
+  326  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  327  docker run kobi14/dockerexercise:v1
+  328  docker run sizijay/dockerexercise:v1
+  329  docker images
+  330  docker stop 9a63ed32fc2b
+  331  docker -ps
+  332  docker  run -ps
+  333  docker images -ps
+  334  docker ps
+  335  docker stop b22973b128c1
+  336  exit
+  337  history
+  338  cd Desktop/
+  339  history >> history.txt
+  340  docker images
+  341  docker images
+  342  docker images
+  343  history >> history.txt
+  344  exit
+  345  docker ps
+  346  docker stop 6146bf114217
+  347  docker ps
+  348  docker stop 8e3043d5998f
+  349  docker images
+  350  docker run -d -p 27017:27017 mongo:latest
+  351  docker ps
+  352  docker stop ea0a2451c621
+  353  docker sps
+  354  docker ps
+  355  docker stop 51353ba80a64
+  356  docker run -d -p 27017:27017 mongo:latest
+  357  docker ps
+  358  docker stop 870c63a16c41
+  359  docker ps
+  360  docker stop b7d6e2671c61
+  361  docker stop 7b815f4639b0
+  362  docker run -d -p 27017:27017 mongo:latest .
+  363  docker images
+  364  docker run 0fcc7acd124b
+  365  docker ps
+  366  docker run -d -p 27017:27017 mongo:latest
+  367  docker ps
+  368  docker run 0fcc7acd124b
+  369  docker ps
+  370  docker run kobi14/dockerexercise:v1
+  371  docker ps
+  372  docker sudo service mongod start
+  373  docker service mongod start
+  374  docker ps
+  375  docker restart 92830720ab70
+  376  docker ps
+  377  docker stop 2f70c9638420
+  378  docker stop 2f70c9638420
+  379  docker ps
+  380  docker stop 22b8cf3789bd 
+  381  docker ps
+  382  docker ps
+  383  docker ps
+  384  docker ps
+  385  docker stop 92830720ab70
+  386  docker ps
+  387  docker stop 735a787e21cf
+  388  exit
+  389  docker images
+  390  docker run -p -d 27017:27017 9a63ed32fc2b
+  391  docker run -d -p 27017:27017 9a63ed32fc2b
+  392  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  393  docker run -p 5000:5000 sizijay/dockerexercise:v1
+  394  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  395  docker run kobi14/dockerexercise:v1
+  396  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  397  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  398  docker images
+  399  docker run -p 5000:5000 dockerexercise:v1
+  400  docker run -p 5000:5000 dockerexercise:v1
+  401  docker run -p 5000:5000 dockerexercise:v1
+  402  docker run -p 5000:5000 dockerexercise:v1
+  403  docker run -p 5000:5000 dockerexercise:v1
+  404  exit
+  405  docker images
+  406  docker ps
+  407  docker run ca9e9c5a080 sh
+  408  docker run ca9e9c5a080 bash
+  409  docker run -it ca9e9c5a080 sh
+  410  docker ps
+  411  docker stop e7e941d36e80
+  412  docker ps
+  413  docker ps
+  414  docker stop c7a9a249ee97
+  415  exit
+  416  docker ps
+  417  docker stop c065a2aeca4b
+  418  docker run -p -d 27017:27017 mongo:latest
+  419  docker run -d -p 27017:27017 mongo:latest
+  420  docker ps
+  421  docker pull sizijay/dockerexercise:v2
+  422  docker images
+  423  docker run -it 5e7b7b552ffd sh
+  424  docker ps
+  425  docker images
+  426  docker run -it sizijay/dockerexercise:v2 sh
+  427  docker ps
+  428  docker stop ae9faf9b0a5e
+  429  docker stop 5627b8f3bd8c
+  430  docker rmi ca9e9c5a080b
+  431  docker rmi -f ca9e9c5a080b
+  432  docker rmi -f 5e7b7b552ffd
+  433  docker images
+  434  docker rmi -f 0fcc7acd124b
+  435  docker images
+  436  docker rmi 0fcc7acd124b
+  437  docker rmi -f 0fcc7acd124b
+  438  docker rmi -f 937ee0a4c20f
+  439  docker images
+  440  docker rmi -f 0fcc7acd124b
+  441  docker images
+  442  docker pull sizijay/dockerexercise:v2
+  443  docker images
+  444  docker run -it sizijay/dockerexercise:v2 sh
+  445  docker pull kobi/dockerexecrise:v1
+  446  docker pull kobi14/dockerexercise:v1
+  447  docker images
+  448  docker rmi -f 9a63ed32fc2b 
+  449  docker rmi -f 9a63ed32fc2b 
+  450  docker run -d -p 27017:27017 mongo:latest
+  451  docker images
+  452  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  453  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  454  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  455  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  456  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  457  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  458  exit
+  459  docker images
+  460  docker run -d -p 27017:27017 mongo:latest
+  461  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  462  docker run -p 5000:5000 sizijay/dockerexercise:v1
+  463  exit
+  464  mongod
+  465  docker images
+  466  docker run -it 5e7b7b552ffd
+  467  docker run -it 5e7b7b552ffd sh
+  468  docker pull sizijay/dockerexecrise:v1
+  469  docker pull sizijay/dockerexercise:v1
+  470  docker images
+  471  docker run -it ca9e9c5a080b sh
+  472  exit
+  473  docker images
+  474  docker run -d -p 27017:27017 mongo:latest
+  475  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  476  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  477  docker run  -p 27017:27017 mongo:latest
+  478  docker ps
+  479  docker stop 61bbed2ebef9
+  480  docker run 
+  481  docker images
+  482  docker run 937ee0a4c20f
+  483  docker run -p 5000:5000 937ee0a4c20f
+  484  docker run -p 5000:5000 kobi14/dockerexercise:v1
+  485  docker images
+  486  docker run -p 5000:5000 ca9e9c5a080b
+  487  docker run -p 5000:5000 ca9e9c5a080b
+  488  mongod
+  489  mongod restsrt
+  490  service mongodb restart
+  491  service mongod restart
+  492  mongo
+  493  mongod
+  494  mongod
+  495  mongod
+  496  mongod
+  497  mongod
+  498  mongod
+  499  cd Desktop/dockerexercise/
+  500  ls
+  501  docker-compose up
+  502  docker-compose up
+  503  docker-compose up
+  504  docker-compose up
+  505  docker-compose build
+  506  docker images
+  507  docker rmi 600e33f065f8
+  508  docker rmi 757367c37549
+  509  docker rmi -f 757367c37549
+  510  docker images
+  511  docker-compose build
+  512  docker-compose up
+  513  docker run  -p 27017:27017 mongo:latest
+  514  docker images
+  515  docker run dockerexercise_web Y
+  516  docker run dockerexercise_web:latest Y
+  517  docker run dockerexercise_web:latest X
+  518  docker-compose up
+  519  history >> history.txt
